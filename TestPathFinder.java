@@ -1,9 +1,9 @@
 package assign08;
 
-/**
+/****
+ *  This class shows an example of how to run your pathfinder.
  * 
- * @author Daniel Kopta This class shows an example of how to run your
- *         pathfinder.
+ * @author Daniel Kopta, Noah Garff, Samuel Langlois.
  */
 public class TestPathFinder {
 

@@ -1,9 +1,10 @@
 package assign08;
 
-/**
- * 
- * @author Daniel Kopta
+/***
  * Simple class to drive the path finding logic and solve a maze.
+ * 
+ * @author Daniel Kopta, Noah Garff, Samuel Langlois.
+ * @version November 9, 2021
  */
 public class PathFinder {
 

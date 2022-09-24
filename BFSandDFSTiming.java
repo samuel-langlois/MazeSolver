@@ -7,6 +7,8 @@ import java.util.Random;
 import java.util.TreeSet;
 
 /**
+ * Tests the runtimes of BFS and DFS algorithoms
+ * 
  * @author Samuel Langlois and Noah Garff
  **/
 public class BFSandDFSTiming {

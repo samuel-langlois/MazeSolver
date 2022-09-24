@@ -6,11 +6,11 @@ import java.util.HashSet;
 import java.util.Random;
 
 /**
- * 
- * @author Daniel Kopta
  * This program is a helper utility to generate random mazes.
  * See the assignment instructions for more details.
  *
+ * @author Daniel Kopta, Noah Garff, Samuel Langlois.
+ * @version November 9, 2021
  */
 public class MazeGen {
 
